@@ -12,7 +12,7 @@ Pantheon can now automatically redirect all traffic to HTTPS, and set the HTTP S
 
 ## Deploy and Configure a HSTS Header by Module or Plugin
 <div class="alert alert-info">
-<h4 class="info">Note</h4><p markdown="1">Manual configuration of the HSTS header using modules, as described in this section, should rarely be necessary. Instead, you should set the `scheme` setting in your `pantheon.yml` file as described above, which will apply these headers automatically. If for some reason you need more flexibility than provided by the built-in feature, then you may use the module or plugin below to configure the exact values you need.
+<h4 class="info">Note</h4><p markdown="1">Manual configuration of the HSTS header using modules, as described in this section, should rarely be necessary. Instead, you should set the `enforce_https` setting in your `pantheon.yml` file as described above, which will apply these headers automatically. If for some reason you need more flexibility than provided by the built-in feature, then you may use the module or plugin below to configure the exact values you need.
 </p>
 </div>
 
