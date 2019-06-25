@@ -10,5 +10,5 @@
 <ol>
   <li><a href="https://dashboard.pantheon.io/register" class="external">Sign up for a Pantheon account</a> if you don't already have one.
   <li>Notify an existing team member that you need access to the account and give them your email address. The team member should contact you directly to confirm who you are and give you to the access to that site’s Dashboard. For instructions on adding and inviting new team members, see <a href="/docs/team-management/" data-proofer-ignore>Team Management</a>.
-  <li>Once you have access, <a href="/docs/site-billing#add-new-credit-card" data-proofer-ignore>add your credit card</a> to the site to make your account the site owner.
+  <li>Once you have access to the Site Dashboard, <a href="/docs/support/" data-proofer-ignore>contact Support</a> to have the ownership of the account transferred to you. You’ll be asked to verify the last four numbers of the existing credit card.
 </ol>
