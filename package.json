@@ -18,7 +18,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-css-url-replace": "^0.2.7",
     "grunt-replace": "^0.11.0",
-    "highlight.js": "^9.3.0",
+    "highlight.js": "^10.4.1",
     "marked": "^0.3.6",
     "node-font-awesome": "^1.0.2",
     "sitespeed.io": "4.0.0-alpha.5"
